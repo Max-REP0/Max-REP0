@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Max
-- 👀 I’m interested in making programs myself
+- 👀 I’m interested in making small programs myself
 
 <!---
 Max-REP0/Max-REP0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
